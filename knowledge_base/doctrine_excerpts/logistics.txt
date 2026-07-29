@@ -1,0 +1,124 @@
+Checklist for supply chain management and logistics
+This section presents a list of considerations for supply-chain management 
+and logistics. It follows the programme management cycle and includes other 
+important elements to consider. 
+Supply chain management (SCM) starts with the choice of commodity or service. 
+It includes identifying the source of what is needed, procurement, quality manage
+ment, risk management (including insurance), packaging, shipping, transportation, 
+warehousing, inventory management, delivery and distribution. SCM involves 
+many different partners, and it is important to coordinate activities ⊕ see Core 
+Humanitarian Standard Commitment 6. 
+Specific SCM expertise is required. Particular types of relevant expertise include 
+contract management, transportation and warehouse management, inventory 
+management, pipeline analysis and information management, shipment tracking 
+23
+WHAT IS SPHERE?
+and import management. Management and monitoring practices should ensure 
+that commodities are safeguarded to distribution points. However, humanitarian 
+organisations are also responsible for ensuring that products and services (including 
+cash-based assistance services) reach the people who need assistance.
+Local and regional purchasing stimulates local markets, which may give farmers  
+and manufacturers an incentive to produce more and may in turn boost the local 
+economy. However, when supplies are already relatively limited, local or regional 
+purchasing could cause problems in other markets or disrupt existing commercial 
+networks. Conversely, importing can crowd out local or regional producers and 
+also disrupt existing commercial networks. 
+Programme design
+• Assess the local availability of needed goods and services before sourcing 
+them from outside the area. 
+• Consider working with reputable local or regional transporters who have 
+valuable knowledge of local regulations, procedures and facilities and can 
+help to ensure compliance with the laws of the host country and to expedite 
+deliveries. 
+• In a conflict environment, apply a particularly rigorous vetting process to 
+service providers.
+• Carefully ensure that sourcing locally does not cause or exacerbate hostilities. 
+• Consider whether any use of natural resources is sustainable and whether 
+use may lead to further conflict over resources. 
+• Establish a transparent, fair and open procedure for awarding contracts, 
+considering local, national and international options.
+• If several organisations are involved, coordinate local sourcing to the extent 
+possible.
+Implementation
+• Build good relationships with suppliers, local traders and service providers.
+• Enforce the appropriate quality of goods and services through contracts as 
+well as ethical and environmentally sustainable practices.
+• Train and supervise staff at all levels of the supply chain to maintain product 
+quality and adhere to, safety procedures (for recipients and staff) as well as 
+ethical and environmentally sustainable practices.
+• Include staff of partner organisations and service providers in training and 
+conduct training in the local language.
+• Set up accountability procedures, including supply, transport and storage 
+planning, inventory management, reporting and financial systems.
+• Avoid using food to pay for logistics operations such as unloading at 
+warehouses. Such costs should be included in the core budget.
+• Separate warehouses for food and non-food items are recommended. 
+When selecting a warehouse, establish that it has not been used to store 
+hazardous goods and that there is no danger of contamination. Factors to 
+24
+Appendix – delivering AssistAnce through mArkets
+consider include: security, capacity, ease of access, structural solidity and 
+absence of any threat of flooding.
+• Assess and manage risks to the security of transport routes and 
+warehouses. 
+• In conflict situations, establish control systems and supervise all stages 
+of the supply chain to minimise the risk of looting or requisitioning by 
+warring parties.
+• Analyse and address broader political and security implications, such as 
+the possibility of diverted stocks fuelling an armed conflict ⊕ see Protection 
+Principle 2. 
+• Minimise and report product losses at all levels of the supply chain.
+• Have damaged or unsuitable commodities inspected by qualified inspectors 
+(such as food safety experts and public health laboratories) and certified 
+for disposal. 
+• Dispose of damaged commodities quickly, before they become a health 
+or security hazard. Methods of commodity disposal include sale (for 
+example or food for animal feed) and burial or incineration that is author
+ised and should be witnessed by relevant authorities. In all cases, unfit 
+commodities must not re-enter the supply chain, harm the environment 
+or contaminate water sources ⊕ see WASH Solid waste management 
+standards 
+• Day-to-day management needs include prompt and transparent reporting of 
+any delays or deviations in the supply chain. Make sufficient documentation 
+and forms available in the local language at all locations where goods are 
+received, stored and/or dispatched. Doing so maintains a documented audit 
+trail of transactions.
+Monitoring, evaluation and learning
+• Monitor and manage commodity pipelines to avoid diversion of and interrup
+tion to distributions, as well as to avoid market distortion.
+• Inform stakeholders regularly about the performance of supply chain efforts. 
+• Share relevant information on stock levels, expected arrivals and distribu
+tions among supply chain stakeholders. Use the tracking of stock levels to 
+highlight anticipated shortfalls and problems in time. Information sharing 
+among partners may facilitate loans that prevent pipeline breaks. If there 
+are insufficient resources, commodities will need to be prioritised. Consult 
+stakeholders when considering solutions.
+• Ensure that accountability and communication mechanisms reflect the 
+specificities of delivery processes.
+• Ensure commodity tracking and information management systems are in 
+place from the beginning of the intervention.
+• Evaluate regularly if the assistance is effective in meeting changing needs, 
+adapt the programme accordingly and support continuous learning for 
+future programmes
+Practical tips and best practices for smarter route planning
+Once you choose your routing software, planning moves from theory to daily decisions. Here are several strategies that enhance your existing logistics, so you can improve routes immediately.
+
+Visualize all routes on one shared map
+Going through routes one by one on a transportation management system (TMS) or spreadsheet won’t show the full picture, like overlaps or excessive workloads. However, a single, shared map shows every active route and stop, giving you a bird’s-eye view of where drivers cross paths, overload specific zones, or are better off splitting into different territories.
+
+For example, a parcel delivery service updates all its morning routes for three cities into one shared visual. Their team might see two delivery drivers repeatedly crossing the same bridge within minutes of each other and redraw the service boundary, cutting 30 minutes of duplicated driving per day.
+
+When you load your logistics data into a web GIS like Felt — stops, routes, and service area boundaries — you can color-code routes by different categories like drivers or vehicle type and use filters to highlight specific time windows. The map is browser-based and collaborative, so everyone on your team can review and leave comments in one place.
+
+Factor in live traffic and road conditions
+Static distance calculations ignore the reality drivers face on the road. Peak traffic, road closures, and weather can turn even the shortest distance into the slowest path. 
+
+Say a grocery delivery team using a route planner app discovers a highway jammed every evening from 5–7 p.m. After analyzing the information, dispatchers reroute a set of deliveries to a slightly longer but consistently flowing alternate route, improving efficiency.
+
+Adding live traffic and road conditions makes route planning more realistic and improves estimated times of arrival (ETAs). With Felt, for example, you can bring in live tiles and visually inspect where planned routes overlap with recurring bottlenecks. Over time, comparing planned versus actual travel times with time tracking data helps optimize future routes.
+
+Balance driver workloads fairly
+Route optimization must consider driver schedules, not just distance. Two delivery drivers finishing at vastly different times is a sign that, while your routes might be mathematically efficient, they’re operationally unfair. Unbalanced workloads lead to burnout, lower morale, and higher turnover rates. In addition to being a people issue, it directly affects long-term performance and costs.
+
+To avoid this, bring driver-related metrics into your maps, like the total stops per shift, expected drive time, and on-road hours. Visualize these metrics using labels to quickly spot outliers. Felt lets you reassign territories and stops or experiment with different depot allocations to see how these changes affect each driver. This makes it easier to balance driver schedules and keep days predictable and fair.
+
