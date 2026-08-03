@@ -29,5 +29,6 @@ if __name__ == "__main__":
     lons = np.load("data/raw/lons.npy")
     slope = compute_slope(grid, lats, lons)
     risk = classify_terrain_risk(slope)
+    np.save("data/raw/risk_grid.npy",risk)
     print("Slope (degrees):\n", slope.round(1))
     print("\nRisk classification:\n", risk)
